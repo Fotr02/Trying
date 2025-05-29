@@ -4,12 +4,12 @@ project:
   description: "Zpracované otázky na státnice"
   authors:
     - name: "Jiří Růžička"
-  logo: Logo.png
-  copyright: "2025"
   keywords: [markdown, myst, kniha]
 
 site:
   template: book-theme
+  logo: logo.png
+  copyright: "2025"
   title: "Státnice"
   nav: 
     - index.md
