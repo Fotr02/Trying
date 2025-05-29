@@ -19,8 +19,4 @@ site:
 output:
   html:
     toc: true
-sphinx:
-  config:
-    html_static_path: ["_static"]
-    html_css_files:
-      - custom.css
+    style: _static/custom.css
