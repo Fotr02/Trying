@@ -5,6 +5,7 @@ project:
   authors:
     - name: "Jiří Růžička"
   keywords: [markdown, myst, kniha]
+  logo: logo.png
 
 site:
   template: book-theme
