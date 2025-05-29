@@ -1,6 +1,18 @@
-# myst.yml
-title: "Moje kniha"
-author: "Jméno"
-version: "0.1"
-html:
-  favicon: favicon.ico
+version: 1
+project:
+  title: "Moje kniha"
+  description: "Ukázková MyST kniha"
+  authors:
+    - name: "Jméno"
+  keywords: [markdown, myst, kniha]
+
+site:
+  template: book-theme
+  title: "Moje kniha"
+  nav: 
+    - index.md
+    - intro.md
+
+output:
+  html:
+    toc: true
