@@ -1,14 +1,16 @@
-version: 1
+version: 1.0
 project:
-  title: "Moje kniha"
-  description: "Ukázková MyST kniha"
+  title: "Státnice"
+  description: "Zpracované otázky na státnice"
   authors:
-    - name: "Jméno"
+    - name: "Jiří Růžička"
+  logo: Logo.png
+  copyright: "2025"
   keywords: [markdown, myst, kniha]
 
 site:
   template: book-theme
-  title: "Moje kniha"
+  title: "Státnice"
   nav: 
     - index.md
     - intro.md
