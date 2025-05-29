@@ -19,3 +19,4 @@ site:
 output:
   html:
     toc: true
+    logo: logo.png
