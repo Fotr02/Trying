@@ -1,0 +1,6 @@
+# myst.yml
+title: "Moje kniha"
+author: "Jméno"
+version: "0.1"
+html:
+  favicon: favicon.ico
