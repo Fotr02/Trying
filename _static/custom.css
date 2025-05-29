@@ -1,5 +1,5 @@
 /* Přizpůsobení velikosti loga v postranní liště */
 .sidebar-logo img {
-  width: 120px;   /* nebo jiný rozměr */
+  width: 500px;   /* nebo jiný rozměr */
   height: auto;
 }
